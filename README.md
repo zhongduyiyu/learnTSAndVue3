@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://github.com/anncwb/vue-vben-admin" target="_blank">
-    <img alt="VbenAdmin Logo" width="200" src="./.github/res/imgs/logo.png">
-  </a>
-</p>
-<h2 align="center">Vben Admin Thin Next</h2>
+## gogogo
 
-**中文** | [English](./README.en-US.md)
+**中文**
 
+- [gogogo](#gogogo)
 - [介绍](#介绍)
 - [gitHub 地址](#github-地址)
   - [精简版地址](#精简版地址)
@@ -24,7 +20,6 @@
 - [Git 提交规范](#git-提交规范)
 - [浏览器支持](#浏览器支持)
 - [插件](#插件)
-- [加入我们](#加入我们)
 
 ## 介绍
 
@@ -179,11 +174,3 @@ yarn clean:lib # 删除node_modules，兼容window系统
 
 - [vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock)
 - [vite-plugin-html](https://github.com/vbenjs/vite-plugin-html)
-
-## 加入我们
-
-`Vue-Vben-Aadmin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时也提供 QQ 交流群(项目刚起步，人数较少，有兴趣的可以加群一起讨论)，使用问题欢迎在群内提问。
-
-- QQ 群 `569291866`
-
- <img alt="VbenAdmin Logo" width="100" src="./.github/res/imgs/qq.jpeg">
