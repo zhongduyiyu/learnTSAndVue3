@@ -22,4 +22,3 @@ vue.config.js
 commit-lint.js
 postcss.config.js
 stylelint.config.js
-commitlint.config.js

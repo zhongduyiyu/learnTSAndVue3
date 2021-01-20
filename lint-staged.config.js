@@ -1,3 +1,11 @@
+/*
+ * @Description:
+ * @Version: 0.01
+ * @Autor: MoXu
+ * @Date: 2021-01-20 17:04:04
+ * @LastEditors: MoXu
+ * @LastEditTime: 2021-01-20 17:32:18
+ */
 module.exports = {
   '*.{js,jsx,ts,tsx}': ['eslint --fix', 'prettier --write'],
   '{!(package)*.json,*.code-snippets,.!(browserslist)*rc}': ['prettier --write--parser json'],
